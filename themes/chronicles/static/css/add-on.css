@@ -337,8 +337,7 @@ body.is-share-visible #wrapper {
 		}
 
 .post {
-	
-	background-image: url(/img/main/gen_background.jpg);
+  background-color: #240A06;
     margin: 0 0 2em 0;
 }
 
@@ -389,9 +388,9 @@ ul.pagination li {
     }
 
 
-    
+
 #share-menu {
-	background-image: url(/img/main/gen_background.jpg);
+  background-color: #240A06;
 }
 
 .no-underline img{
